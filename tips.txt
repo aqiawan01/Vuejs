@@ -1,0 +1,8 @@
+
+1- passport for api's
+2- Role and Permission By spatie
+3- Base 64 Image Use for Pkg
+4- composer require laravelcollective/html
+
+
+
